@@ -1,5 +1,5 @@
 # sentiment-analysis-using-Text
-Here's a README file for your Sentiment Analysis on US Airline Reviews project!
+
 
 ---
 
